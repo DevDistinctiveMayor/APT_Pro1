@@ -6,6 +6,7 @@ function section1() {
         <h1>
             My first Comment
         </h1>
+        <p>My first Comment</p>
 
 
 
